@@ -46,8 +46,7 @@ int main() {
 		else {
 			cout << "The value you have entered is not in this array." << endl;
 		}
-		cout << "MIN " << min_index << endl;
-		cout << "MAX " << max_index << endl;
+
 		
 		// Ask for closing
 		cout << "Enter (y) to continue and any other key to exit: ";
